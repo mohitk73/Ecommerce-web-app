@@ -13,7 +13,7 @@ import Whitepillow from '../assets/Whitepillow.jpg';
 import blacktable from '../assets/blacktable.jpg';
 import cozysofa from '../assets/cozysofa.jpg';
 import Newsletter from '../components/Newsletter';
-import Footer from '../components/footer';
+import Footer from '../components/Footer';
 
 const products = [
   { id: 1, name: 'Loveseat Sofa', image: loveseatsofa, price: 199 },

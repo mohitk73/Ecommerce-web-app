@@ -1,7 +1,6 @@
-import React from 'react';
-import { Link } from 'react-router-dom'; 
 import { FaStar } from 'react-icons/fa';
 import { HiArrowRight } from 'react-icons/hi';
+import { Link } from 'react-router-dom';
 import basket from '../assets/basket.jpg';
 import beigelamp from '../assets/beigelamp.jpg';
 import kitchenimg from '../assets/kitchenimg.jpg';

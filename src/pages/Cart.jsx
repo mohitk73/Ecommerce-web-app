@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { useCart } from '../contexts/CartContext';
-import Footer from '../components/footer';
+import Footer from '../components/Footer';
 import '../pages/Cart.css';
 
 function Cart() {

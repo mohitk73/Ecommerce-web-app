@@ -2,7 +2,7 @@ import React from 'react';
 import { useParams } from 'react-router-dom';
 import { FaStar, FaHeart } from 'react-icons/fa';
 import Newsletter from '../components/Newsletter';
-import Footer from '../components/footer';
+import Footer from '../components/Footer';
 import shopimage from '../assets/shopimage.jpg';
 import loveseatsofa from '../assets/loveseatsofa.jpg';
 import tablelamp from '../assets/tablelamp.jpg';
